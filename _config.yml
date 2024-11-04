@@ -28,7 +28,7 @@ twitter_username: chaszg
 github_username:  chaszg
 
 # Build settings
-theme: jekyll-theme-architect
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
